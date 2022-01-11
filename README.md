@@ -19,7 +19,7 @@ Este é um repositório no qual se encontra a parte Front-end de uma aplicação
 
 ## 🎯 Objetivo
 
-Esse projeto tem como objetivo, criar uma aplicação na qual simulamos os pedidos de uma lanchonete, aonde podemos cadastrar pedidos e visualizalos na tela seguinte.
+Esse projeto tem como objetivo, criar uma aplicação na qual simulamos os pedidos de uma lanchonete, aonde podemos cadastrar pedidos e visualizá los na tela seguinte.
 
 <hr>
 
