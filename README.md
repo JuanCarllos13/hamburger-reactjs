@@ -6,7 +6,9 @@
   Projeto criado com o intuito de mostrar meus conhecimentos ao decorrer da minha carreira.
 </h4>
 
-![Resultado final do projeto](./imagem/site.png)
+![login](https://user-images.githubusercontent.com/86435195/148880931-6eda30a3-6e33-48ce-9ef1-c1023f635dce.png)
+
+
 
 
 ## ❓ O que é ?
@@ -52,7 +54,7 @@ Link do Back-end: https://github.com/JuanCarllos13/hamburger-node.js
   <tr>
     <td align="center">
       <a href="https://github.com/JuanCarllos13">
-        <img src="./imagem/1628213195219.jfif" width="100px;" alt="Foto do Juan no GitHub"/><br>
+        <img src="https://user-images.githubusercontent.com/86435195/148881183-10c14efa-9cfa-444e-983b-4ebd408e9513.jpeg" width="100px;" height="150px" alt="Foto do Juan no GitHub"/><br>
         <sub>
           <b>JUAN CARLOS</b>
         </sub>
