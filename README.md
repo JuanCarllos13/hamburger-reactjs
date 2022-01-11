@@ -39,13 +39,14 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - HTML;
 - CSS;
 - JavaScript;
-- Reactjs
-- Nodejs
+- Reactjs;
+- Nodejs;
 
 ---
 ## ❗ Você tem que ver!
 
 Essa aplicação é a parte front-end do projeto, recomendo para você que veja o repositório com a API que foi feita por mim mesmo com Node.js.
+
 Link do Back-end: https://github.com/JuanCarllos13/hamburger-node.js
 <hr>
 
